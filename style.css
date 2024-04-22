@@ -219,3 +219,7 @@ body {
 .main-pic:hover {
     opacity: 1.0;
 }
+
+.main p {
+    background-color: aquamarine;
+}
